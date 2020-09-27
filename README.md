@@ -1,1 +1,2 @@
-# JavaScript-Conhecendo-o-Browser-e-padroes-de-projeto
+# JavaScript-Conhecendo o Browser e padrões de projeto
+Curso Alura
